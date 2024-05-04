@@ -1,63 +1,64 @@
 [
   {
-    "spørsmål": "Hva er piksler?",
-    "svar" : "Bildeelementer som utgjør digitale bilder",
-    "alternativ": [
-      "Små enheter som utgjør lydfiler", "Enheter som lagrer videofiler"
+    "question": "Hva er piksler?",
+    "correctAnswer" : "Bildeelementer som utgjør digitale bilder",
+    "answer": [
+      "Små enheter som utgjør lydfiler", 
+      "Enheter som lagrer videofiler"
     ]
   },
   {
-    "spørsmål": "Hva er RGB i forbindelse med farger på skjermen?",
-    "svar" : "Et fargekode-system som bruker rødt, grønt og blått",
-    "alternativ" : [ 
+    "question": "Hva er RGB i forbindelse med farger på skjermen?",
+    "correctAnswer" : "Et fargekode-system som bruker rødt, grønt og blått",
+    "answer" : [ 
       "En metode for å komprimere bilder",
       "En måleenhet for lydkvalitet"
     ]
   },
   {
-    "spørsmål": "Hva er punktmatrise eller bitmap?",
-    "svar" : "En representasjon av alle mulige kombinasjoner av piksler i et bilde",
-    "alternativ" : [
+    "question": "Hva er punktmatrise eller bitmap?",
+    "correctAnswer" : "En representasjon av alle mulige kombinasjoner av piksler i et bilde",
+    "answer" : [
       "En metode for å lagre lydfiler",
       "En filtype for komprimerte bilder"
     ]
   },
   {
-    "spørsmål": "Hva er formålet med tapsfri kompresjon?",
-    "svar" : "Å redusere filstørrelsen uten å miste viktig informasjon",
-      "alternativ" : [
+    "question": "Hva er formålet med tapsfri kompresjon?",
+    "correctAnswer" : "Å redusere filstørrelsen uten å miste viktig informasjon",
+      "answer" : [
         "Å fjerne deler av bildet for å spare plass",
         "Å endre fargeformatet til bildet"
     ]
   },
   {
-    "spørsmål": "Hva er ADPCM?",
-    "svar" : "En lydkomprimeringsmetode",
-    "alternativ" : [
+    "question": "Hva er ADPCM?",
+    "correctAnswer" : "En lydkomprimeringsmetode",
+    "answer" : [
       "En metode for å lagre bilder",
       "En type kompresjonsalgoritme for video"
     ]
   },
   {
-    "spørsmål": "Hva er samplingsfrekvensen i forbindelse med lydopptak?",
-    "svar" : "Antall ganger lyden måles per sekund",
-      "alternativ" : [
+    "question": "Hva er samplingsfrekvensen i forbindelse med lydopptak?",
+    "correctAnswer" : "Antall ganger lyden måles per sekund",
+      "answer" : [
         "Antall farger som brukes til å representere et bilde", 
          "Antall bit som brukes til å lagre lyden"
     ]
   },
   {
-    "spørsmål": "Hva er Run Length Encoding?",
-    "svar" : "En metode for å komprimere videofiler",
-      "alternativ" : [ 
+    "question": "Hva er Run Length Encoding?",
+    "correctAnswer" : "En metode for å komprimere videofiler",
+      "answer" : [ 
      "En type lydkomprimering",
      "En algoritme for redigering av bilder"
     ]
   },
   {
-    "spørsmål": "Hva er nøkkelbilde i sammenheng med videoredigering?",
-    "svar" : "Et bilde som representerer videoens totale innhold",
-    "alternativ" : [ 
+    "question": "Hva er nøkkelbilde i sammenheng med videoredigering?",
+    "correctAnswer" : "Et bilde som representerer videoens totale innhold",
+    "answer" : [ 
       "Et bilde som brukes som bakgrunn i et videoopptak",
       "Et bilde som blir vist på slutten av videoen
     ]
