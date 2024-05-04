@@ -1,0 +1,66 @@
+[
+  {
+    "spørsmål": "Hva er piksler?",
+    "svar" : [
+      {"alternativ": "Små enheter som utgjør lydfiler", "fasit": false},
+      {"alternativ": "Bildeelementer som utgjør digitale bilder", "fasit": true},
+      {"alternativ": "Enheter som lagrer videofiler", "fasit": false}
+    ]
+  },
+  {
+    "spørsmål": "Hva er RGB i forbindelse med farger på skjermen?",
+    "svar" : [
+      {"alternativ" : "En metode for å komprimere bilder", "fasit": false},
+      {"alternativ" : "En måleenhet for lydkvalitet", "fasit": false},
+      {"alternativ" : "Et fargekode-system som bruker rødt, grønt og blått", "fasit":true}
+    ]
+  },
+  {
+    "spørsmål": "Hva er punktmatrise eller bitmap?",
+    "svar" : [
+      {"alternativ" : "En metode for å lagre lydfiler", "fasit": false},
+      {"alternativ" : "En filtype for komprimerte bilder", "fasit": false},
+      {"alternativ" : "En representasjon av alle mulige kombinasjoner av piksler i et bilde", "fasit":true}
+    ]
+  },
+  {
+    "spørsmål": "Hva er formålet med tapsfri kompresjon?",
+    "svar" : [
+      {"alternativ" : "Å redusere filstørrelsen uten å miste viktig informasjon", "fasit": true},
+      {"alternativ" : "Å fjerne deler av bildet for å spare plass", "fasit": false},
+      {"alternativ" : "Å endre fargeformatet til bildet", "fasit":false}
+    ]
+  },
+  {
+    "spørsmål": "Hva er ADPCM?",
+    "svar" : [
+      {"alternativ" : " En metode for å lagre bilder", "fasit": false},
+      {"alternativ" : "En type kompresjonsalgoritme for video", "fasit": false},
+      {"alternativ" : "En lydkomprimeringsmetode", "fasit":true}
+    ]
+  },
+  {
+    "spørsmål": "Hva er samplingsfrekvensen i forbindelse med lydopptak?",
+    "svar" : [
+      {"alternativ" : "Antall farger som brukes til å representere et bilde", "fasit": false},
+      {"alternativ" : "Antall ganger lyden måles per sekund", "fasit": true},
+      {"alternativ" : "Antall bit som brukes til å lagre lyden", "fasit":false}
+    ]
+  },
+  {
+    "spørsmål": "Hva er Run Length Encoding?",
+    "svar" : [
+      {"alternativ" : "En metode for å komprimere videofiler", "fasit": true},
+      {"alternativ" : "En type lydkomprimering", "fasit": false},
+      {"alternativ" : "En algoritme for redigering av bilder", "fasit": false}
+    ]
+  },
+  {
+    "spørsmål": "Hva er nøkkelbilde i sammenheng med videoredigering?",
+    "svar" : [
+      {"alternativ" : "Et bilde som brukes som bakgrunn i et videoopptak", "fasit": false},
+      {"alternativ" : "Et bilde som representerer videoens totale innhold", "fasit": true},
+      {"alternativ" : "Et bilde som blir vist på slutten av videoen", "fasit": false}
+    ]
+  }
+]
